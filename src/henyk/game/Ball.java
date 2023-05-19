@@ -53,11 +53,11 @@ public class Ball extends Sprite {
         ydir = y;
     }
 
-    public int getXdir(){
+    public int getXDir(){
         return xdir;
     }
 
-    public int getYdir(){
+    public int getYDir(){
         return  ydir;
     }
 
